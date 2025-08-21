@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Phase Curve Calculator"
+version: 1.0.0
+abstract: "A tool to compute thermal and reflected light phase curves from exoplanet energy balance model outputs."
+authors:
+  - family-names: Venkatesan
+    given-names: Vidya
+    orcid: "https://orcid.org/0000-0002-5638-4344"
+date-released: "2025-08-21"
+license: "MIT"
+repository-code: "https://github.com/astrovidee/phase_curve_calculator"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.16921574"
+keywords:
+  - exoplanets
+  - phase curves
+  - energy balance model
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Venkatesan
+      given-names: Vidya
+  title: "Phase Curve Calculator"
+  version: 1.0.0
+  doi: "10.5281/zenodo.16921574"
+  url: "https://github.com/astrovidee/phase_curve_calculator"
